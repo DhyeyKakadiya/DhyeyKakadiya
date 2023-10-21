@@ -1,4 +1,3 @@
-### Hi there 👋
 [![@dhyeykakadiya's Holopin badges](https://holopin.me/dhyeykakadiya)](https://holopin.io/@dhyeykakadiya)
 
 <!--
