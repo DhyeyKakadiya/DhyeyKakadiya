@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![@dhyeykakadiya's Holopin badges](https://holopin.me/dhyeykakadiya)](https://holopin.io/@dhyeykakadiya)
+[![@dhyeykakadiya's Holopin badges](https://holopin.me/dhyeykakadiya)]()
 
 <!--
 **DhyeyKakadiya/DhyeyKakadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
